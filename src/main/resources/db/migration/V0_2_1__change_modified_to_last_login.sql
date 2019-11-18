@@ -1,0 +1,1 @@
+alter table USER alter column GMT_MODIFIED rename to GMT_LAST_LOGIN;
